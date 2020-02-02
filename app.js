@@ -1,1 +1,1 @@
-console.log('Hey you!Darek tu był');
+console.log('Hey you!');
