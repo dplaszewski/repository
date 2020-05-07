@@ -1,2 +1,1 @@
-console.log('Hey you'):
-Test
+console.log('Hey you');
